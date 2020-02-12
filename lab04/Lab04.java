@@ -60,6 +60,7 @@ public class Lab04 extends Application {
                     + phone.getText().charAt(3) + phone.getText().charAt(4) +
                     phone.getText().charAt(5) + " - "+ phone.getText().charAt(6) +
                     phone.getText().charAt(7) + phone.getText().charAt(8) +
+                    phone.getText().charAt(9) + 
                       "\nDate Of Birth = " + datePick.getValue());
            username.setText("");
            password.setText("");
